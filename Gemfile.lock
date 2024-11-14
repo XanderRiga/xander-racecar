@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    racecar (2.11.1)
+    racecar (3.0q)
       karafka-rdkafka (~> 0.15.0)
       king_konf (~> 1.0.0)
 
